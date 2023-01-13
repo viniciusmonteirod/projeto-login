@@ -37,6 +37,7 @@ Grandes telas: acima de 1200px
         background-image: linear-gradient(to top, #49a09d,
         #5f2c82);
     }
+    
     section#login {
         width: 950px;
     }
@@ -48,8 +49,8 @@ Grandes telas: acima de 1200px
     }
 
     section#login > div#formulário {
-        display: block;
-        padding: 10px;
+        float: right;
+        width: 50%;
     }
 }
 
